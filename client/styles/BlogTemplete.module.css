@@ -1,0 +1,14 @@
+:global(#blog-create .ql-editor img) {
+  display: block;
+  margin: 0 auto;
+}
+
+:global(#blog-preview .ql-editor img) {
+  display: block;
+  margin: 0 auto;
+}
+
+:global(#blog-view .ql-editor img) {
+  display: block;
+  margin: 0 auto;
+}
